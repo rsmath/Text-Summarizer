@@ -1,4 +1,4 @@
-# TeenHacksLIHackathon
+# TeenHacksLIHackathon [![HitCount](http://hits.dwyl.io/ramanshsharma2806/Text-Summarizer.svg)](http://hits.dwyl.io/ramanshsharma2806/Text-Summarizer)
 
 ## Methodology
 
